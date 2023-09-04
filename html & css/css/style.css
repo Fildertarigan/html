@@ -1,0 +1,29 @@
+.biru {
+    color: blue;
+}
+.merah {
+    color: red;
+}
+.kuning {
+    color: yellow;
+}
+
+input[type=text]{
+background-color: blueviolet;
+color: white;
+border: 5px solid white;
+width: 200px;
+padding: 5px;
+margin: 10px;
+
+}
+input[type=password]{
+    background-color: brown;
+    color: yellow;
+    border: 5px dotted white;
+    width: 200px;
+    padding: 5px;
+    margin: 10px;
+    
+    }
+    

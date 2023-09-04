@@ -1,0 +1,41 @@
+body {
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background-attachment: fixed;
+}
+.a1 {
+    background-color: white;
+    width: 900px;
+    margin: auto;
+  
+}
+.w1 {
+    background-color: rgb(33, 28, 113);
+    color: white;
+    padding: 2px;
+}
+.menu {
+    background-color: rgb(255, 187, 0);
+    padding: 5px;
+}
+.w3 {
+    background-color: rgb(33, 28, 113);
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.img1 {
+    width: 200px;
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 200PX;
+    border: 2px solid rgb(255, 187, 0);
+}
+.w2{
+    .content 
+        padding: 5px;
+        height: 500px;
+        vertical-align: top;
+    
+    
+}
+

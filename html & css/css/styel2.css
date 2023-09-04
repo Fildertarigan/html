@@ -1,0 +1,51 @@
+.p1 {
+    color: orangered;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+table { width: 55%;
+}
+.p2 {
+    background-color: seagreen;
+    color:orangered;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px dotted brown;
+    width: 50px;
+    padding: 5px;
+    margin: 10px;
+   
+}
+.p3 {
+    background-color:coral;
+    font-size: 30px;
+    font-weight: bold;
+    border: 1px dotted brown;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+}
+.p4 {
+    background-color: coral;
+    font-size: 30px;
+    border: 1px dotted brown;
+    width: 50px;
+    padding: 5px;
+    margin: 10px;
+    
+}
+.p5 {
+    background-color: blue;
+    color: white;
+    font-family: cursive;
+    border: 1px dotted brown;
+    width: 100px;
+    padding: 5px;
+    margin: 10px;
+    font-style: italic;
+}
+
+body {
+    background-image: linear-gradient(to right top, #1d4f99, #40657a, #0a575e, #158256, #8ba74e);
+    background-attachment: fixed;
+}
